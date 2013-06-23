@@ -1,9 +1,9 @@
 [
     {
-        "account":      "LegacyXperia",
-        "repository":   "android_device_semc_haida",
+        "account":      " Druboo666",
+        "repository":   "Liquid_device_haida",
         "target_path":  "device/semc/haida",
-        "revision":     "cm-10.1"
+        "revision":     "aosp"
     },
     {
         "account":      "LegacyXperia",
@@ -41,4 +41,16 @@
         "target_path":  "external/iw",
         "revision":     "master"
     }
+    {
+        "account":      "arco",
+        "repository":   "android_hardware_qcom_display-legacy",
+        "target_path":  "hardware/qcom/display-legacy",
+        "revision":     "cm-10.1"
+    },
+    {
+        "account":      "arco",
+        "repository":   "android_hardware_qcom_media-legacy",
+        "target_path":  "hardware/qcom/media-legacy",
+        "revision":     "cm-10.1"
+    },
 ]
